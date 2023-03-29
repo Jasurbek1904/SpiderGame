@@ -1,0 +1,13 @@
+img {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    width: 200px;
+    height: 200px;
+}
+
+p {
+    color: rgb(70, 140, 240);
+    font-size: 50px;
+    text-align: center;
+}
